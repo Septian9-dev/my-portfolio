@@ -233,7 +233,7 @@ export default function AboutView() {
                 <div>
                   <span className="text-slate-500 uppercase font-bold tracking-wider block mb-1">Email</span>
                   <a
-                    href="mailto:raseptian@gmail.com"
+                    href="mailto:ra9septian@gmail.com"
                     className="text-sky-400 hover:text-sky-300 font-medium text-sm transition"
                   >
                     raseptian@gmail.com
