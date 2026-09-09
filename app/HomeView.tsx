@@ -220,7 +220,7 @@ export default function HomeView() {
 
             <div className="mt-4 flex flex-wrap justify-center md:justify-start gap-4 text-xs text-slate-400">
               <span className="flex items-center gap-1">📍 Pagedangan, Tangerang</span>
-              <span className="flex items-center gap-1">✉️ raseptian@gmail.com</span>
+              <span className="flex items-center gap-1">✉️ ra9septian@gmail.com</span>
               <span className="flex items-center gap-1">📱 +62 881-0245-26362</span>
             </div>
 
