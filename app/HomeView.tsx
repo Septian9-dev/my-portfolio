@@ -247,7 +247,7 @@ export default function HomeView() {
             <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-sky-500 to-indigo-500 opacity-75 blur transition duration-500 group-hover:opacity-100"></div>
             <div className="relative w-44 h-44 sm:w-56 sm:h-56 rounded-full overflow-hidden border-2 border-slate-800 bg-slate-900">
               <img
-                src="/profile.jpg"
+                src="public/profile.jpg"
                 alt="Septian Rizki A."
                 className="w-full h-full object-cover object-center group-hover:scale-105 transition duration-500"
                 onError={(e) => {
