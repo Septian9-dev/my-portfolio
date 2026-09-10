@@ -236,7 +236,7 @@ export default function AboutView() {
                     href="mailto:ra9septian@gmail.com"
                     className="text-sky-400 hover:text-sky-300 font-medium text-sm transition"
                   >
-                    raseptian@gmail.com
+                    ra9septian@gmail.com
                   </a>
                 </div>
 
